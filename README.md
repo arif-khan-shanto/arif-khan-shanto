@@ -103,7 +103,8 @@
 ---
 
 ## 🤝 Connect with Me
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="arif-khan-shanto" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/arif-khan-shanto?trk=profile-badge">MD. ARIF KHAN</a></div>
+              
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-khan-shanto)
